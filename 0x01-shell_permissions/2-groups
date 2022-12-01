@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!bin/bash
 groups
+=======
+#!/bin/bash
+group
+>>>>>>> 4d535b0920db68236e9ae4f6384cc25928dc18f2
